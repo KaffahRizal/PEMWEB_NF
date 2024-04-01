@@ -1,0 +1,22 @@
+Program Studi
+
+Teknik Informatika
+Sistem Informasi
+Bisnis Digital
+
+http://localhost/Pemrograman-Web-NF/SEMESTER2/Praktikum3/hasilprak.php?nim=0110223012&nama=Kaffah+Rizal&jkelamin=l&prodi=ti&skill=HTML&skill=CSS&skill=JS&skill=RWD+Bootstrap&skill=PHP&skill=PYTHON&skill=JAVA&asal=Tangerang&email=rizalkaffah%40gmail.com&submit=
+
+ID nyaaaaaaaaaaaaaaaa
+
+nim
+nama
+prodi
+skill_0
+skill_1
+skill_2
+skill_3
+skill_4
+skill_5
+skill_6
+asal
+email
